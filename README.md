@@ -2,6 +2,10 @@
 
 一个基于Vue的简易Cesium开发模板
 
+## 效果
+
+![demo](/pulic/demo.png)
+
 ## 项目初始化
 
 ```
