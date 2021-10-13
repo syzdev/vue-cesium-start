@@ -4,7 +4,7 @@
 
 ## 效果
 
-![demo](/pulic/demo.png)
+![demo](/readme_images/demo.png)
 
 ## 项目初始化
 
