@@ -14,7 +14,7 @@ npm install
 
 补全`src/common/js/config.js`中的`Token`信息（Cesium Ion Token和天地图Token）：
 
-- `CesiumIonDefaultAccessToken`：前往 https://cesium.com/ 中注册账号，[详细教程](https://syzdev.cn/2021/08/10/注册Cesium ion教程/)，并且创建`Token`；
+- `CesiumIonDefaultAccessToken`：前往 https://cesium.com/ 中注册账号，[详细教程](https://syzdev.cn/2021/08/10/注册Cesiumion教程/)，并且创建`Token`；
 - `TianDiTuToken`：前往 https://uums.tianditu.gov.cn/register 中注册账号，[详细教程](https://syzdev.cn/2021/08/11/注册天地图Token教程/)，并且创建`Token`。
 
 ### 编译
