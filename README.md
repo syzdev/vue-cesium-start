@@ -11,6 +11,8 @@
 ```
 npm install
 ```
+### 配置
+注：以下配置非必须，根据实际情况选择。
 
 补全`src/common/js/config.js`中的`Token`信息（Cesium Ion Token和天地图Token）：
 

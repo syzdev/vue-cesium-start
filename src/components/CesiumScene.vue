@@ -3,7 +3,6 @@
 </template>
 
 <script>
-// import Cesium from 'cesium/Source/Cesium'
 import * as Cesium from 'cesium'
 import 'cesium/Source/Widgets/widgets.css'
 import { initCesium } from '../common/js/initCesium'
