@@ -1,6 +1,6 @@
 # vue-cesium-start
 
-一个基于Vue的简易Cesium开发模板
+一个基于Vue2.x的简易Cesium开发模板
 
 ## 效果
 
